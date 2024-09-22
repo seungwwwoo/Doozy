@@ -1,0 +1,18 @@
+{
+  "name": "Manager",
+  "references": [
+    "UnityEngine",
+    "UnityEditor",
+    "LitJson",
+    "BestHTTP",    
+    "DoozyRuntime"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

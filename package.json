@@ -1,0 +1,15 @@
+{
+  "name": "com.carpe.manager",
+  "version": "0.0.1",
+  "displayName": "CoreManager",
+  "description": "core singleton manager",
+  "unity": "2022.3",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "letnaturebe",
+    "email": "letnaturebe@gmail.com",
+    "url": "https://www.carpecorp.com"
+  }
+}
