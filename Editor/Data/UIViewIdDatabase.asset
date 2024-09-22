@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a745bce9a5b442ba82b755fe202f795, type: 3}
+  m_Name: UIViewIdDatabase
+  m_EditorClassIdentifier: 
+  Database:
+    Items:
+    - Category: Common
+      Name: EnterLoading
+    - Category: Common
+      Name: EpisodeStart
+    - Category: Common
+      Name: GameSceneLoading
+    - Category: Common
+      Name: LiveRenderer
+    - Category: Common
+      Name: LobbyLoading
+    - Category: Common
+      Name: Mail
+    - Category: Common
+      Name: MainFake
+    - Category: Common
+      Name: ProjectList
+    - Category: Common
+      Name: Setting
+    - Category: Common
+      Name: StarShop
+    - Category: Common
+      Name: SystemLoading
+    - Category: Common
+      Name: TEST
+    - Category: Common
+      Name: Top
+    - Category: Game
+      Name: EpisodeEnd
+    - Category: Game
+      Name: InGame
+    - Category: Game
+      Name: InGameLoading
+    - Category: IFYOU
+      Name: Ability
+    - Category: IFYOU
+      Name: Adventure
+    - Category: IFYOU
+      Name: Beginning
+    - Category: IFYOU
+      Name: Costume
+    - Category: IFYOU
+      Name: Custom
+    - Category: IFYOU
+      Name: Data
+    - Category: IFYOU
+      Name: DLC
+    - Category: IFYOU
+      Name: DLCDetail
+    - Category: IFYOU
+      Name: DLCMemory
+    - Category: IFYOU
+      Name: Ending
+    - Category: IFYOU
+      Name: EndingSelection
+    - Category: IFYOU
+      Name: Entrance
+    - Category: IFYOU
+      Name: EpisodeList
+    - Category: IFYOU
+      Name: Gallery
+    - Category: IFYOU
+      Name: IllustDetail
+    - Category: IFYOU
+      Name: Intro
+    - Category: IFYOU
+      Name: Introduce
+    - Category: IFYOU
+      Name: ItemList
+    - Category: IFYOU
+      Name: Language
+    - Category: IFYOU
+      Name: Lobby
+    - Category: IFYOU
+      Name: Main
+    - Category: IFYOU
+      Name: Memory
+    - Category: IFYOU
+      Name: Mission
+    - Category: IFYOU
+      Name: Navigation
+    - Category: IFYOU
+      Name: Search
+    - Category: IFYOU
+      Name: Shop
+    - Category: IFYOU
+      Name: SoundDetail
+    - Category: IFYOU
+      Name: SpecialEpisode
+    - Category: IFYOU
+      Name: StoryLoading
+    - Category: IFYOU
+      Name: StoryLobby
+    - Category: IFYOU
+      Name: Talk
+    - Category: IFYOU
+      Name: Timer
+    - Category: IFYOU
+      Name: Title
+    - Category: None
+      Name: None

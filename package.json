@@ -1,7 +1,7 @@
 {
-  "name": "com.carpe.manager",
+  "name": "com.carpe.doozy",
   "version": "0.0.1",
-  "displayName": "CoreManager",
+  "displayName": "Doozy",
   "description": "core singleton manager",
   "unity": "2022.3",
   "documentationUrl": "https://example.com/",
